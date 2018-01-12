@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
+
+//to check positivity
 int n;
 scanf("%d",&n);
 if(n>0)
