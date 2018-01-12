@@ -6,6 +6,6 @@ scanf("%d",&N);
 if(N%2==0)
 printf("Even");
 else
-printf("odd");
+printf("Odd");
   return(0);
 }
